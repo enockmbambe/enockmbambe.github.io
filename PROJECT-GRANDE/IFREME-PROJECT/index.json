@@ -1,0 +1,15 @@
+{
+
+"Nome":"enock",
+"idade":30,
+"esta a trabalhar":true,
+"detalhes_proficao":{
+
+    "profissao":"programador",
+    "empresa":"ux ui designer"
+},
+
+"abiitos":["programar , correr,ler,"]
+
+}
+
